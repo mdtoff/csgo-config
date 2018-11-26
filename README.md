@@ -9,7 +9,7 @@ My Counter Strike Global Offensive config.
 
 ## Versioning
 
-I use [SemVer](http://semver.org/) for versioning.
+I use [SemVer](https://semver.org/) for versioning.
 
 ## Authors
 
